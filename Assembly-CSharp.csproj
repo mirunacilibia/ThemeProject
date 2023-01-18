@@ -26,7 +26,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\Assembly-CSharp\</OutputPath>
-    <DefineConstants>UNITY_2021_3_14;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;USE_SEARCH_TABLE;USE_SEARCH_MODULE;USE_PROPERTY_DATABASE;USE_SEARCH_EXTENSION_API;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2021_3_14;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;USE_SEARCH_TABLE;USE_SEARCH_MODULE;USE_PROPERTY_DATABASE;USE_SEARCH_EXTENSION_API;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169,0649</NoWarn>
@@ -41,27 +41,33 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Download\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Z Axis -1\Drawer_Pull_Zopp.cs" />
+     <Compile Include="Assets\Download\Revolving Door\Scripts\DoorRotation.cs" />
      <Compile Include="Assets\Download\Brick Project Studio\Apartment Kit\Scenes\Quitgame.cs" />
-     <Compile Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Doors\opencloseStallDoor.cs" />
-     <Compile Include="Assets\Download\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Slide\BRGlassDoor.cs" />
-     <Compile Include="Assets\Download\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Windows\opencloseWindowApt.cs" />
-     <Compile Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Doors\opencloseDoor.cs" />
      <Compile Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Drawer\Z Axis\Drawer_Pull_Z.cs" />
-     <Compile Include="Assets\Download\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Slide\opencloseSlide.cs" />
-     <Compile Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Windows\opencloseWindow1.cs" />
-     <Compile Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\First Person Player\MouseLook.cs" />
-     <Compile Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Windows\opencloseWindow.cs" />
      <Compile Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\First Person Player\SceneSwitchGen.cs" />
      <Compile Include="Assets\Download\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Closet\ClosetopencloseDoor.cs" />
-     <Compile Include="Assets\Download\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Z Axis -1\Drawer_Pull_Zopp.cs" />
-     <Compile Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Drawer\X Axis\Drawer_Pull_X.cs" />
      <Compile Include="Assets\Download\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\TableFlip\TableFlipR.cs" />
-     <Compile Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\First Person Player\PlayerMovement.cs" />
      <Compile Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Doors\opencloseDoor1.cs" />
+     <Compile Include="Assets\Download\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Windows\opencloseWindowApt.cs" />
+     <Compile Include="Assets\Download\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Slide\BRGlassDoor.cs" />
+     <Compile Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\First Person Player\PlayerMovement.cs" />
+     <Compile Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Drawer\X Axis\Drawer_Pull_X.cs" />
+     <Compile Include="Assets\Download\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Slide\opencloseSlide.cs" />
      <Compile Include="Assets\Download\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\OvenOpen\OvenFlip.cs" />
-     <Compile Include="Assets\Download\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\TableFlip\TableFlipL.cs" />
-     <Compile Include="Assets\Download\Revolving Door\Scripts\DoorRotation.cs" />
+     <Compile Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Doors\opencloseStallDoor.cs" />
      <Compile Include="Assets\Download\Revolving Door\Scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Doors\opencloseDoor.cs" />
+     <Compile Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\First Person Player\MouseLook.cs" />
+     <Compile Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Windows\opencloseWindow.cs" />
+     <Compile Include="Assets\Download\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\TableFlip\TableFlipL.cs" />
+     <Compile Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Windows\opencloseWindow1.cs" />
+     <Compile Include="Assets\Enviroment\enviroment\Office building\scripts\Fix_elevator_fall.cs" />
+     <Compile Include="Assets\Enviroment\enviroment\Office building\scripts\DoorAction.cs" />
+     <Compile Include="Assets\Enviroment\enviroment\Office building\scripts\Door.cs" />
+     <Compile Include="Assets\MoveElevator.cs" />
+     <Compile Include="Assets\Enviroment\enviroment\Office building\scripts\evelator_controll.cs" />
+     <Compile Include="Assets\Enviroment\enviroment\Office building\scripts\pass_on_parent.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\shrubs\bigLeavesShrubs" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Bathroom" />
@@ -100,15 +106,19 @@
      <Folder Include="Assets\Download\ADG_Textures\ground_vol1\ground3" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\_Prefabs\Legacy" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Textures\Fire" />
+     <Folder Include="Assets\Prefabs\Hallway" />
+     <Folder Include="Assets\Enviroment\enviroment\Office building\textures\Props\used" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\Common" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\prefabs\rocks" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\shrubs\littleLeavesShrub" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\_Prefabs" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\BA Build Kit\Interior\Doors Frames" />
+     <Folder Include="Assets\Enviroment\enviroment\Office building\meshes" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\trees" />
      <Folder Include="Assets\Download\AllSkyFree\_AllSkyFreeDemoEnvironment" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Living Room" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\trees\trees\purpleTree" />
+     <Folder Include="Assets\Enviroment\enviroment\Office building" />
      <Folder Include="Assets\Download\AllSkyFree\Overcast Low" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit" />
      <Folder Include="Assets\Download\Numena\Plants\Lemon\Prefabs With Fruits" />
@@ -119,6 +129,7 @@
      <Folder Include="Assets\Download\ADG_Textures\ground_vol1\ground11" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\Furniture_Props" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Windows" />
+     <Folder Include="Assets\Enviroment\enviroment\Office building\scene" />
      <Folder Include="Assets\Download\Revolving Door\Prefabs" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\_Prefabs\Restroom\Signs" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Kitchen" />
@@ -127,12 +138,14 @@
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\_Prefabs\Restroom\RR Build Kit\Stall" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Textures\Restroom" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\shrubs\littleLeavesShrub\editableMaterials" />
+     <Folder Include="Assets\Enviroment\enviroment\Office building\textures\Elevator emission graphics" />
      <Folder Include="Assets\Download\AllSkyFree\Cold Sunset" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Frames Windows Stairs &amp; Doors" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\rocks\rock\editableMAterial" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\rocks\redRock" />
      <Folder Include="Assets\Download\ADG_Textures\ground_vol1\ground8" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\dryBranch" />
+     <Folder Include="Assets\Materials\Materials" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\_Prefabs\Props\Lighting" />
      <Folder Include="Assets\Download\Numena\Plants\Lemon\Terain Prefabs" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\_Prefabs\Props\Kitchen" />
@@ -145,6 +158,7 @@
      <Folder Include="Assets\Download\Revolving Door\Scripts" />
      <Folder Include="Assets\Download\AllSkyFree\Night MoonBurst" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Special\Wall Modern" />
+     <Folder Include="Assets\Enviroment\enviroment\Office building\textures\Props" />
      <Folder Include="Assets\Download\ADG_Textures\ground_vol1\ground2" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\_Prefabs\Restroom\RR Build Kit" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\rocks\redRock\editableMAterial" />
@@ -162,6 +176,7 @@
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Windows" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\Common\Textures" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\rocks" />
+     <Folder Include="Assets\Enviroment\enviroment\Office building\Prefabs" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\grass\grass\editableMatreial" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Misc" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\grass" />
@@ -176,12 +191,14 @@
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Materials" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\BA Build Kit\Exterior" />
+     <Folder Include="Assets\Enviroment\enviroment\Office building\Material lamps evelator" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\scene\prefabs" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Special\Molding" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\Common\Textures\Misc" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Special" />
      <Folder Include="Assets\Download\Brick Project Studio" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\BA Build Kit\Interior" />
+     <Folder Include="Assets\Enviroment\enviroment\Office building\textures\lamps\emission" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\dryBranch\deadTree\editableMaterial" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\_Prefabs\Restroom\RR Build Kit\Walls" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\Common\Textures\Surface" />
@@ -198,14 +215,17 @@
      <Folder Include="Assets\Download\ADG_Textures" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\trees\trees" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\grass\littleGrass\editableMatreial" />
+     <Folder Include="Assets\Enviroment\enviroment\Office building\scene\office building" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\_Prefabs\Restroom\RR Build Kit\Floors Ceilings" />
      <Folder Include="Assets\Download\ADG_Textures\ground_vol1\ground4" />
+     <Folder Include="Assets\Enviroment\enviroment\Office building\material props" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\BA Build Kit\IntExt" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\trees\deadTrees\drySimpleTree" />
      <Folder Include="Assets\Download\Numena" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\trees\deadTrees\dryBigLeavesTree" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\trees\deadTrees\dryPurpleTree" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\BA Build Kit" />
+     <Folder Include="Assets\Enviroment\enviroment\Office building\textures" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\rocks\blackRock\editableMAterial" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\_Prefabs\Restroom\Fixtures" />
@@ -225,8 +245,10 @@
      <Folder Include="Assets\Download\Numena\Plants\Lemon\Source\Textures" />
      <Folder Include="Assets\Prefabs" />
      <Folder Include="Assets\Download\Numena\Plants\Lemon" />
+     <Folder Include="Assets\Prefabs\Elevator" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\_Prefabs\Base Scene" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\shrubs" />
+     <Folder Include="Assets\Enviroment\enviroment\Office building\textures\lamps" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Textures\Basic Asset" />
      <Folder Include="Assets\Download\ADG_Textures\ground_vol1\ground7" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\trees\deadTrees\dryTree" />
@@ -243,6 +265,8 @@
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Kitchen\Appliances" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Closet" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Special\Collum" />
+     <Folder Include="Assets\Enviroment\enviroment" />
+     <Folder Include="Assets\Enviroment\enviroment\Office building\materials Building" />
      <Folder Include="Assets\Download\AllSkyFree\Epic_GloriousPink" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\_Prefabs\Fire" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Int into Ext" />
@@ -262,13 +286,16 @@
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\TableFlip" />
      <Folder Include="Assets\Download\AllSkyFree\Epic_BlueSunset\Materials" />
      <None Include="Assets\Download\Brick Project Studio\Apartment Kit\Scenes\BPS Apartment Kit.txt" />
+     <None Include="Assets\Enviroment\enviroment\Office building\Read me.txt" />
      <Folder Include="Assets\Download\ADG_Textures\ground_vol1" />
      <Folder Include="Assets\Download\polygonTrees\polygonTrees\models\trees\trees\simpleTree\editableMaterials" />
      <Folder Include="Assets\Download\Numena\Plants\Lemon\Source" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Kitchen\Cabinets" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Drawer\Z Axis" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Walls Frames &amp; Doors\Apt_03" />
+     <Folder Include="Assets\Enviroment\enviroment\Office building\scripts" />
      <Folder Include="Assets\Download\Brick Project Studio\_BPS Basic Assets\_Prefabs\Restroom" />
+     <Folder Include="Assets\Enviroment" />
      <Folder Include="Assets\Download\AllSkyFree\Cartoon Base BlueSky" />
      <Folder Include="Assets\Download\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Wine Cabinet" />
      <Folder Include="Assets\Download\Revolving Door\Textures\RevolvingDoor" />
@@ -525,29 +552,29 @@
      <Reference Include="UnityEditor.UnityConnectModule">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.14f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\PackageCache\com.unity.visualscripting@1.7.8\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
-     </Reference>
-     <Reference Include="ReportGeneratorMerged">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\PackageCache\com.unity.testtools.codecoverage@1.0.1\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
-     </Reference>
-     <Reference Include="Newtonsoft.Json">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2\Runtime\Newtonsoft.Json.dll</HintPath>
-     </Reference>
      <Reference Include="Unity.Burst.Unsafe">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\PackageCache\com.unity.burst@1.7.3\Unity.Burst.Unsafe.dll</HintPath>
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\PackageCache\com.unity.burst@1.7.3\Unity.Burst.Unsafe.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Cecil.Mdb">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\PackageCache\com.unity.burst@1.7.3\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\PackageCache\com.unity.burst@1.7.3\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Cecil.Pdb">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\PackageCache\com.unity.burst@1.7.3\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\PackageCache\com.unity.burst@1.7.3\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Cecil">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\PackageCache\com.unity.burst@1.7.3\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\PackageCache\com.unity.burst@1.7.3\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Cecil.Rocks">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\PackageCache\com.unity.burst@1.7.3\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\PackageCache\com.unity.burst@1.7.3\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\PackageCache\com.unity.visualscripting@1.7.8\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="ReportGeneratorMerged">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\PackageCache\com.unity.testtools.codecoverage@1.0.1\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
+     </Reference>
+     <Reference Include="Newtonsoft.Json">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2\Runtime\Newtonsoft.Json.dll</HintPath>
      </Reference>
      <Reference Include="netstandard">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.14f1\Editor\Data\NetStandard\ref\2.1.0\netstandard.dll</HintPath>
@@ -915,155 +942,155 @@
      <Reference Include="System.Xml.Serialization">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.14f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.VisualScripting.Flow.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
-     </Reference>
      <Reference Include="Unity.VSCode.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Timeline">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Core.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.TextMeshPro">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.State.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Flow">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEditor.UI">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Rider.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEngine.UI">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Services.Core">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.Services.Core.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Core">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.EditorCoroutines.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Services.Core.Analytics">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.Services.Core.Analytics.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Shared.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Services.Core.Environments">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.Services.Core.Environments.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Timeline.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.State">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.ProGrids.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.ProGrids.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.ProGrids">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.ProGrids.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Postprocessing.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Postprocessing.Runtime">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualEffectGraph.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.VisualEffectGraph.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualEffectGraph.Runtime">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.VisualEffectGraph.Runtime.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipelines.HighDefinition.Runtime">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Runtime.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipelines.Core.Runtime">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipelines.Universal.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipelines.HighDefinition.Config.Runtime">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Config.Runtime.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Mathematics">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Burst.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.RenderPipelines.HighDefinition.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Editor.dll</HintPath>
+     <Reference Include="Unity.TextMeshPro.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.State.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Searcher.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="PPv2URPConverters">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\PPv2URPConverters.dll</HintPath>
+     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.Mathematics.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
+     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.RenderPipelines.Core.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
+     <Reference Include="UnityEditor.UI">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Rider.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+     <Reference Include="UnityEngine.UI">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.Burst">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
+     <Reference Include="Unity.EditorCoroutines.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.ShaderGraph.Editor">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Mathematics.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.HighDefinition.Config.Runtime">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Config.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.ProGrids">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.ProGrids.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.Flow.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualEffectGraph.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.VisualEffectGraph.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-     <HintPath>C:\Users\Miruna\Desktop\Facultate\Anul3\VR\ThemeProject\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="PPv2URPConverters">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\PPv2URPConverters.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualStudio.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualEffectGraph.Runtime">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.VisualEffectGraph.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Timeline">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.Core.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.TextMeshPro">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Burst.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.HighDefinition.Runtime">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.Core.Runtime">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.HighDefinition.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Postprocessing.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.Flow">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.PlasticSCM.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.ProGrids.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.ProGrids.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Services.Core">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.Services.Core.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.Core">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Mathematics">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Services.Core.Analytics">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.Services.Core.Analytics.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Burst">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Postprocessing.Runtime">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.Universal.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.Shared.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Services.Core.Environments">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.Services.Core.Environments.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Timeline.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.Core.Editor">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.State">
+     <HintPath>C:\Users\Iasmina\RiderProjects\ThemeProject\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
