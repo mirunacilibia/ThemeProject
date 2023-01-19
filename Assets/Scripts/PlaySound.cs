@@ -16,7 +16,7 @@ public class PlaySound : MonoBehaviour
         while (keepPlaying){
             GetComponent<AudioSource>().PlayOneShot(sound);  
             Debug.Log("birds");
-            yield return new WaitForSeconds(5);
+            yield return new WaitForSeconds(3);
         }
     }
 }

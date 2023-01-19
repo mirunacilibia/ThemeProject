@@ -11,6 +11,7 @@ public class MoveElevator : MonoBehaviour
 		private float movementSpeed = 5f;
 		public Vector3 targetPosition;
 		private bool canMove = false;
+		public AudioClip sound;
 		void Start()
 		{
 			targetPosition = new Vector3(transform.position.x, transform.position.y - 3f, transform.position.z);
@@ -30,6 +31,8 @@ public class MoveElevator : MonoBehaviour
 							if (Input.GetMouseButtonDown(0))
 							{
 								canMove = true;
+								GetComponent<AudioSource>().PlayOneShot(sound);
+								GetComponent<AudioSource>().PlayOneShot(sound);
 							}
 						}
 					}
@@ -38,14 +41,6 @@ public class MoveElevator : MonoBehaviour
 			}
 
 		}
-
-		/*IEnumerator opening()
-		{
-			Debug.Log("you are going on the elevator");
-
-			Debug.Log(transform.position);
-			yield return new WaitForSeconds(.5f);
-		}*/
 
 		private void Update()
 		{
