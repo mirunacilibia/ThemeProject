@@ -21,7 +21,7 @@ public class FlickerController : MonoBehaviour
         timeDelay = Random.Range(0.02f, 0.5f);
         yield return new WaitForSeconds(timeDelay);
         this.gameObject.GetComponent<Light>().enabled = true;
-        timeDelay = Random.Range(0.02f, 0.5f);
+        timeDelay = Random.Range(0.05f, 0.10f);
         yield return new WaitForSeconds(timeDelay);
         isFlickering=false;
     }
