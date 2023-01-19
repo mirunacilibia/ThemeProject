@@ -8,7 +8,7 @@ namespace SojaExiles
     public class MouseLook : MonoBehaviour
     {
 
-        public float mouseXSensitivity = 100f;
+        public float mouseXSensitivity = 30f;
 
         public Transform playerBody;
 
